@@ -4,9 +4,9 @@
 simple to do app using HTML , css and javascriop 
 
 ## Features :
-    User-friendly
+User-friendly
 
-    Local Storage Supported
+Local Storage Supported
 
 ## WEBSITE DEMO
 ![WEBSITE DEMO](./WEBSITE%20DEMO.jpg)
